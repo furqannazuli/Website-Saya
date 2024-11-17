@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+img {
+  width: 150px;
+  height: auto;
+  border-radius: 5px;
+}
